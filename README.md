@@ -1,7 +1,11 @@
 # Noda
-This mobile application is developed to help students keep track of their class schedule. It 
-included the user's personal profile, which tracked the individual schedule, 
-announcements taken from the university's website, funny quotes from teachers 
-published in the Telegram channel, the schedule itself, tracking the occupancy of 
-classrooms, and contact information about the university and faculties.
+This mobile application is developed to help students keep track of their class schedule. 
+
+Features:
+- The student has the opportunity to view his schedule for the entire week
+- Each user has his own profile in our application
+- It is possible to view the state of classrooms (free/not free) according to the schedule of all students
+- Information about all faculties is available on the info page
+- The main page displays news from the university website
+- Every day a new quote of some teacher is highlighted
 
